@@ -28,7 +28,7 @@ Outside of the main variable of interest, I identified interesting distributions
 
 
 
-## Key Insights for Presentation
+## Key Insights
 
 For the presentation, I focus on the key Features of Loan and Borrower, and left out correlated features and intermediate plots. I start by introducing the Loan Status Outcome variable, the IMF definition, and its distribution.
 
